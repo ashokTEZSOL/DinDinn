@@ -6,5 +6,8 @@ target 'DinDinn' do
   use_frameworks!
 
   # Pods for DinDinn
-
+  pod 'RxSwift'
+    pod 'RxCocoa'
+    pod 'Moya/RxSwift'
+    pod 'RealmSwift'
 end
